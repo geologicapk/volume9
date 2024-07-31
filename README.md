@@ -1,13 +1,13 @@
-<<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-	<link rel="stylesheet" href="">
+	
 </head>
 <body>
-	<p><a href="https://geologica.gov.pk/">GEOLOGICA (An International Journal of Earth Sciences)</a><br><br>
+	<p><a href="https://geologica.gov.pk/">GEOLOGICA (An International Journal of Earth Sciences)</a><br><br><a href="https://orcid.org/0009-0009-9318-0541"><img src="https://img.shields.io/badge/ORCID-0009--0009--9318--0541-green?labelColor=grey" alt="ORCID"></a>
 
 
 	
@@ -26,10 +26,7 @@
 <br>
 </p><br>
 
-Article 04</a>
-<a href="https://orcid.org/0009-0009-9318-0541"><img src="https://img.shields.io/badge/ORCID-0009--0009--9318--0541-green?labelColor=grey" alt="ORCID"></a>
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://geologica.gov.pk/">GEOLOGICA (An International Journal of Earth Sciences)</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://gsp.gov.pk/">Geological Survey of Pakistan</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-ND 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nd.svg?ref=chooser-v1" alt=""></a></p>
 <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1"><img src="https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-darkgreen.svg" alt="CC BY-NC-ND 4.0"></a>
-
-[![CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-darkgreen.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1)
 </body>
 </html>
