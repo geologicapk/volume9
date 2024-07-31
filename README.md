@@ -3,15 +3,13 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>GEOLOGICA Journal</title>
+
 	<link rel="stylesheet" href="">
 </head>
 <body>
 	<p><a href="https://geologica.gov.pk/">GEOLOGICA (An International Journal of Earth Sciences)</a><br><br>
 
-	<!-- HTML DOI
-		<a href="https://zenodo.org/doi/10.5281/zenodo.111xxxxx"><img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.111xxxxx-blue?labelColor=green" alt="DOI"></a>
-	-->
+
 	
 <a href="https://geologica.gov.pk/volume9/">Volume 09</a><br>
 <a href="https://geologica.gov.pk/volume9/25/07/2024/geological-exploration-and-genetic-modelling-of-jol-khand-iron-ore-baluchistan-pakistan/2676/">Article 01</a>
